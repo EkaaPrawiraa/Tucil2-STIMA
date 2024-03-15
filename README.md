@@ -22,7 +22,7 @@ Pindah ke folder src program
 Buka Terminal dan jalankan : python main.py
 ```
 
-### My Identity
+### Me
 ```
 Mohammad Nugraha Eka Prawira - 13522001 - K01
 ```
