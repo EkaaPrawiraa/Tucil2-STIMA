@@ -4,7 +4,7 @@
 ### Description
 ```
 Program untuk membuat ilustrasi gambar kurva bezier dengan input 3 titik dan jumlah iterasi yang diinginkan.
-Program dibuat dengan algoritma _divide and conquer_ dan _bruteforce_.
+Program dibuat dengan algoritma divide and conquer dan bruteforce.
 Output program berupa kurva Bezier yang terbentuk dan waktu eksekusi program yang digunakan. 
 ```
 
@@ -19,7 +19,7 @@ Output program berupa kurva Bezier yang terbentuk dan waktu eksekusi program yan
 ### Running the Program
 ```
 Pindah ke folder src program
-Buka Terminal dan jalankan : _python main.py_
+Buka Terminal dan jalankan : python main.py
 ```
 
 ### My Identity
